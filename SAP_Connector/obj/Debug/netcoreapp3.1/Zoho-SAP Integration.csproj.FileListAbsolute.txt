@@ -1,0 +1,51 @@
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.exe
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.deps.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.runtimeconfig.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.runtimeconfig.dev.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Zoho-SAP Integration.pdb
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Interop.SAPbobsCOM.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Interop.SAPbouiCOM.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Sap.Data.Hana.Core.v2.1.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.csproj.AssemblyReference.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.GeneratedMSBuildEditorConfig.editorconfig
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.AssemblyInfoInputs.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.AssemblyInfo.cs
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.csproj.CoreCompileInputs.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.MvcApplicationPartsAssemblyInfo.cs
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.MvcApplicationPartsAssemblyInfo.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\staticwebassets\Zoho-SAP Integration.StaticWebAssets.Manifest.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\staticwebassets\Zoho-SAP Integration.StaticWebAssets.xml
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\scopedcss\bundle\Zoho-SAP Integration.styles.css
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.RazorTargetAssemblyInfo.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.csproj.CopyComplete
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.pdb
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\obj\Debug\netcoreapp3.1\Zoho-SAP Integration.genruntimeconfig.cache
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.deps.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.runtimeconfig.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.runtimeconfig.dev.json
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.exe
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.dll
+E:\Durgasaran\Source Codes\Immuneel\API\Zoho-SAP Integration\Zoho-SAP Integration\bin\Debug\netcoreapp3.1\InboundConsole.pdb
