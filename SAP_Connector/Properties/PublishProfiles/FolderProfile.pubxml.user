@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Durgasaran\IIS Publish\Wondersoft_API_2344</_PublishTargetUrl>
+    <History>True|2022-07-19T13:13:31.2639514Z;True|2022-01-27T14:49:48.4007537+05:30;False|2022-01-27T14:49:40.8046426+05:30;True|2022-01-22T08:32:54.6708196+05:30;True|2022-01-21T20:03:43.2838995+05:30;True|2022-01-21T19:42:47.0609659+05:30;True|2022-01-21T19:37:51.3218937+05:30;False|2022-01-21T19:37:25.0545590+05:30;True|2022-01-21T19:30:34.0115440+05:30;</History>
+  </PropertyGroup>
+</Project>
