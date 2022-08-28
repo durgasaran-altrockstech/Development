@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\Zoho-SAP Integration\\Zoho-SAP Integration.csproj": {}
+  },
+  "projects": {
+    "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\InboundConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\InboundConsole.csproj",
+        "projectName": "InboundConsole",
+        "projectPath": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\InboundConsole.csproj",
+        "packagesPath": "C:\\Users\\Saran\\.nuget\\packages\\",
+        "outputPath": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\Zoho-SAP Integration\\Zoho-SAP Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\Zoho-SAP Integration\\Zoho-SAP Integration.csproj",
+        "projectName": "Zoho-SAP Integration",
+        "projectPath": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\Zoho-SAP Integration\\Zoho-SAP Integration.csproj",
+        "packagesPath": "C:\\Users\\Saran\\.nuget\\packages\\",
+        "outputPath": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\Zoho-SAP Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\InboundConsole.csproj": {
+                "projectPath": "E:\\Durgasaran\\Source Codes\\Wondersoft\\Zoho-SAP Integration\\InboundConsole\\InboundConsole.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
