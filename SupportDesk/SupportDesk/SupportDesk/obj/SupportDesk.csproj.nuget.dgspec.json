@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj": {}
+    "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\Development_GIT\\Development\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj": {
+    "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\Development_GIT\\Development\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\Development_GIT\\Development\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj",
         "projectName": "SupportDesk",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\Development_GIT\\Development\\SupportDesk\\SupportDesk\\SupportDesk\\SupportDesk.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\SupportDesk\\SupportDesk\\SupportDesk\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive - Altrocks Tech Private Limited\\Development_GIT\\Development\\SupportDesk\\SupportDesk\\SupportDesk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,43 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Mailjet.Api": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Runtime": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.8, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             }
           },
           "imports": [

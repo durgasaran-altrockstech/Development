@@ -1,0 +1,68 @@
+Mehod :1
+{
+  "DocDate": "2022-06-23",
+  "CardCode": "C0005",
+  "Comments": "Posted Against POS Invoice No2250,Dated :2022-06-23",
+  "BPL_IDAssignedToInvoice": 5,
+  "DocTotal": 2789.00,
+  "DocumentLines": [
+    {
+      "ItemCode": "SHIRT",
+      "BarCode": "102191955",
+      "Quantity": 1.00,
+      "WarehouseCode": "EDV_01",
+      "TaxCode": "GST5",
+      "UnitPrice": 955.429,
+      "LineTotal": 947.6190476190476190476190476,
+      "BatchNumbers": [
+        {
+          "BatchNumber": "102191955",
+          "Quantity": 1.00
+        }
+      ]
+    }
+  ]
+}
+Method :2
+{
+  "CardCode": "C035598",
+  "UseBillToAddrToDetermineTax": "N",
+  "U_ACQUISITION": "1",
+  "U_CONVERSION": "1",
+  "U_ATTCH": "7",
+  "U_SALETRANSTYPE": "INVOICE",  
+  "DocTotal": "1300.00",
+  "Rounding": "N",
+  "RoundingDiffAmount": "0.00",
+  "U_DREF": "2",
+  "Project": "EXH/20/00003",
+  "DocDate": "2022-08-22",
+  "BPL_IDAssignedToInvoice": "8",
+  "DocumentLines": [
+    {
+      "ItemCode": "15-140-HB002-00032",
+      "U_MRP": "1300.00",
+      "Quantity": "1.00",
+      "TaxCode": "TNGST5",
+      "WarehouseCode": "E20/0003",
+      "UnitPrice": "1238.095238",
+      "LineTotal": "1238.10",
+      "ProjectCode": "EXH/20/00003"
+    }
+  ],
+  "TaxExtension": {
+    "StreetB": "100, Satur Road, near Bus Stand",
+    "StreetS": "100, Satur Road, near Bus Stand",
+    "BlockB": "NA",
+    "BlockS": "NA",
+    "CityB": "Sivakasi",
+    "CityS": "Sivakasi",
+    "CountryS": "IN",
+    "StateS": "TN",
+    "CountryB": "IN",
+    "StateB": "TN"    
+  },
+  "AddressExtension": {
+    "PlaceOfSupply": "TN"
+  }
+}

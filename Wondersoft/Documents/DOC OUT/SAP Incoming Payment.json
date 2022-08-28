@@ -1,0 +1,26 @@
+{
+  "CardCode": "C0005",
+  "DocDate": "2022-06-23",
+  "BPLID": 5,
+  "CashAccount": "10301003",
+  "CashSum": 0.0,
+  "PaymentInvoices": [
+    {
+      "SumApplied": 2789.0,
+      "AppliedSys": 2789.0,
+      "DocEntry": 6660,
+      "InvoiceType": "it_Invoice"
+    }
+  ],
+  "PaymentCreditCards": [
+    {
+      "LineNum": 0,
+      "CreditCard": 7,
+      "CreditAcct": "103010207",
+      "CreditCardNumber": "20210",
+      "CardValidUntil": "2025-12-31",
+      "VoucherNum": "6660",
+      "CreditSum": 2789.0
+    }
+  ]
+}
